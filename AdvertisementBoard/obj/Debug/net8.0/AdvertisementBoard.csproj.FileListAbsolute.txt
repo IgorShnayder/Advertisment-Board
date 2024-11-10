@@ -1,0 +1,58 @@
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.exe
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.dll.config
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.deps.json
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.runtimeconfig.json
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.pdb
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\FlickrNet45.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\Microsoft.Threading.Tasks.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\System.Net.Http.Extensions.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\System.Net.Http.Primitives.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\PCLCrypto.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\Telegram.Bot.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\bin\Debug\net8.0\Validation.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.csproj.AssemblyReference.cache
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.csproj.SuggestedBindingRedirects.cache
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.dll.config
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.AssemblyInfoInputs.cache
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.AssemblyInfo.cs
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.csproj.CoreCompileInputs.cache
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.csproj.CopyComplete
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\refint\AdvertisementBoard.dll
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.pdb
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.genruntimeconfig.cache
+D:\Coding\Projects\C#\GameDev Academy\My projects\AdvertisementBoard after review by Vika 01.06.2023\AdvertisementBoard\obj\Debug\net8.0\ref\AdvertisementBoard.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.exe
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.dll.config
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.deps.json
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.runtimeconfig.json
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\AdvertisementBoard.pdb
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\FlickrNet45.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\Microsoft.Threading.Tasks.Extensions.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\Microsoft.Threading.Tasks.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\System.Net.Http.Extensions.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\System.Net.Http.Primitives.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\PCLCrypto.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\Telegram.Bot.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\bin\Debug\net8.0\Validation.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.csproj.AssemblyReference.cache
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.csproj.SuggestedBindingRedirects.cache
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.dll.config
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.AssemblyInfoInputs.cache
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.AssemblyInfo.cs
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.csproj.CoreCompileInputs.cache
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\Advertis.7D03E0DC.Up2Date
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\refint\AdvertisementBoard.dll
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.pdb
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\AdvertisementBoard.genruntimeconfig.cache
+D:\Coding\Projects\C#\GameDev Academy\AdvertisementBoard\AdvertisementBoard\obj\Debug\net8.0\ref\AdvertisementBoard.dll
